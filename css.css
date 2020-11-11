@@ -1,0 +1,27 @@
+
+img {
+opacity: 0.8;
+margin: 5px;
+width: 200px;
+height: 230px; }
+h1 {color: blue;
+ font-size: 35px; }
+ p { color: red;
+ font-size: 22px; }
+ body {
+  background-color: darkblue;
+}
+table, th, td {
+  border: 3px solid black;
+}
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+img {
+  border-radius: 50%;
+}
